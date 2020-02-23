@@ -17,9 +17,9 @@ namespace DiscountCards.Entities
             {
                 throw new Exception("There is no such a card in the system!");
             }
-            var instanceMachine = Activator.CreateInstance(typeCard, turnover);
+            var instanceCard = Activator.CreateInstance(typeCard, turnover);
 
-            return (Card)instanceMachine;
+            return (Card)instanceCard;
         }
     }
 }
