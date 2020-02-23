@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCards", "DiscountCards\DiscountCards.csproj", "{AB96289E-7936-4EA0-BEAA-D2A065E05987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB96289E-7936-4EA0-BEAA-D2A065E05987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB96289E-7936-4EA0-BEAA-D2A065E05987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB96289E-7936-4EA0-BEAA-D2A065E05987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB96289E-7936-4EA0-BEAA-D2A065E05987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD6F878-469A-4056-A7AA-B3FC7463DE2A}
+	EndGlobalSection
+EndGlobal
